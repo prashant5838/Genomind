@@ -1,4 +1,4 @@
-*-# Genomind: Intelligent Health Forecasting Through Genes and Legacy
+Genomind: Intelligent Health Forecasting Through Genes and Legacy
 
 Genomind is a full-stack, AI-powered web application designed to forecast individual health risks by analyzing hereditary and genetic data. The system uses machine learning models to provide personalized predictions for genetic disorders and hereditary traits.
 
